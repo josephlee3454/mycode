@@ -1,2 +1,2 @@
 # mycode
-Tracking my code
+# i want to learn version control
